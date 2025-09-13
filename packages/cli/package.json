@@ -1,0 +1,29 @@
+{
+  "name": "@hhy-cli/cli",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "hhy-ci": "./dist/index.js"
+},
+
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hhy-cli/create": "workspace:*",
+    "commander": "^14.0.1",
+    "fs-extra": "^11.3.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4"
+  }
+}
