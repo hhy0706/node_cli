@@ -5,3 +5,5 @@ export {
     NpmPackage,
     versionUtils
 }
+
+export default NpmPackage;

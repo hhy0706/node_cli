@@ -1,5 +1,11 @@
 # @hhy-cli/cli
 
+## 1.1.1
+
+### Patch Changes
+
+- @hhy-cli/create@1.1.1
+
 ## 1.1.0
 
 ### Minor Changes
