@@ -1,6 +1,6 @@
 {
-  "name": "react-demo",
-  "description": "脚手架穿件的 react-demo 项目",
+  "name": "react--demo",
+  "description": "脚手架穿件的 react--demo 项目",
   "private": true,
   "version": "0.0.0",
   "type": "module",
